@@ -3,10 +3,10 @@ CAD adapted from main Voron Switchwire files. It's not perfect for the assembly,
 Also this project for inspiration:
 https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire
 
-Rails - MGN12H:
-Two 350mm for the bed
-Two 350mm for the Z
-One 320mm for the X gantry. 
+1. Rails - MGN12H:
+- Two 350mm for the bed
+- Two 350mm for the Z
+- One 320mm for the X gantry. 
 
 PSU is Anycubic
 The center rail for the structure gets in the way of the control board location, hence the overhang. I used an BTT Ocotpus Pro board. A Fysetc spyder is a bit narrower and will likely fit without the overhang. 
