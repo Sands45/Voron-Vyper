@@ -8,10 +8,11 @@ https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3
 - Two 350mm for the Z
 - One 320mm for the X gantry. 
 
-PSU is Anycubic
+PSU is Anycubic.
+
 The center rail for the structure gets in the way of the control board location, hence the overhang. I used an BTT Ocotpus Pro board. A Fysetc spyder is a bit narrower and will likely fit without the overhang. 
 
-THe panels have cutouts for Nema 17 motors 51mm long. So anything under that will fit. I used 48mm long motors.
+The panels have cutouts for Nema 17 motors 51mm long. So anything under that will fit. I used 48mm long motors.
 The one cooling fan appears to be adaquate for the mainboard. 
 The Bed supports work wth Anycubic parts. You may have to shim the bed to level it though. YMMV The Y stop gives full travael and stops *just* short of the rear enclosure panel. 
 
