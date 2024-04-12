@@ -1,5 +1,8 @@
 CAD adapted from main Voron Switchwire files. It's not perfect for the assembly, but all the individual parts work with the Anycubic Vyper frame and associated parts. You will need to procure all the Switchwire >> Ender conversion parts on your own. My posting this doesn't imply I will support this effort. I've already put in too much effort :)  
 
+Also this project for inspiration:
+https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire
+
 Rails - MGN12H:
 Two 350mm for the bed
 Two 350mm for the Z
